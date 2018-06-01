@@ -1,8 +1,7 @@
 # Fil Rouge 0 Guerrilla
 
 Création d'une **One Page**
-Sur base d'une proposition de projet par Julie Connerotte
-[GitHub Julie Connerotte](https://github.com/jujujujul)
+sur base d'une proposition de projet par [Julie Connerotte](https://github.com/jujujujul)
 
 ![BAPA 1](result/bapa1.png/)
 ![BAPA 2](result/bapa2.png/)
